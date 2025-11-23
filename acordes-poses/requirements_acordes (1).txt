@@ -1,0 +1,4 @@
+opencv-python>=4.5.0
+mediapipe>=0.10.0
+mido>=1.2.10
+python-rtmidi>=1.4.0
